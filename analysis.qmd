@@ -1,0 +1,11 @@
+---
+title: "analysis"
+format: html
+---
+
+```{r}
+fire_data <- read.csv("fire-data.csv")
+
+head(fire_data)
+```
+
